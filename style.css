@@ -1,0 +1,75 @@
+header{
+background-color: #f8f9fa;}
+
+.container{
+
+    margin-bottom: 80px;
+}
+
+img{
+
+    max-width: 100%;
+}
+
+.org-color{
+    background-color: #feeae9;
+}
+
+.course-text{
+
+    padding: 20px 40px;
+}
+.course-text h1{
+
+    margin-bottom: 20px;
+}
+
+button{
+
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+padding: 10px 15px;
+border: none;
+border-radius: 5px;
+color: white;
+    
+}
+
+.button:hover{
+
+color: black;
+}
+
+.watcs-1,.watcs-2,.watcs-3{
+    margin-bottom: 20px;
+}
+.watcs-1{
+
+    background-image: linear-gradient(to top,#ffc107, #e5dd45);
+    padding: 20px;
+    border-radius: 6px;
+}
+.watcs-2{   background-image: linear-gradient(to top,#0772ff, #5dbb10);
+    padding: 20px;
+    border-radius: 6px;}
+.watcs-3{
+
+    background-image: linear-gradient(to top,#e322dc, #15d5c8);
+    padding: 20px;
+    border-radius: 6px;
+}
+
+.botn{
+
+    width: 50%;
+ 
+}
+.mnt{
+
+    padding: 20px;
+}
+
+.subs-content {
+
+    padding: 40px 0px;
+}
+
